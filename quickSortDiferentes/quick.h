@@ -2,5 +2,5 @@
 #include <time.h>
 
 void build_Heap(int [],int);
-void HeapSort(int H[],int n);
+void quick_sort(int *a, int esq, int dir);
 int gerar_numero_aleatorio();
